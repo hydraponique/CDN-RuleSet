@@ -9,6 +9,7 @@
 - **Fastly**
 - **Akamai**
 - **cdn77 | datacamp**
+- **Oracle**
 
 ---
 
@@ -22,6 +23,7 @@
 - `Fastly.mrs`
 - `Akamai.mrs`
 - `datacamp.mrs`
+- `Oracle.mrs`
 
 Также доступен объединённый файл:
 
@@ -35,6 +37,7 @@
 - `geoip:fastly`
 - `geoip:akamai`
 - `geoip:datacamp`
+- `geoip:oracle`
 
 
 
